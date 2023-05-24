@@ -79,12 +79,14 @@ Confusion Matrix:
 
 
 **Custom Structure**
+
 Structure:
 
 ![image](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/d7f3a914-26de-4b43-a00d-d2cca6b7578d)
 
 
 Figures:
+
 ![Accuracy Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/a1ff9fc7-1016-4531-820e-bcbfa8ec40af)
 
 ![Loss Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/1d5df7f4-6934-4e34-8427-89c399859af9)
@@ -103,6 +105,7 @@ Structure:
 
 
 Figures:
+
 ![Accuracy Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/ac8e4d8f-4420-481c-bcf8-6bf1b8595ab6)
 
 ![Loss Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/18ad39dc-2823-4e45-961c-e3821319a201)
