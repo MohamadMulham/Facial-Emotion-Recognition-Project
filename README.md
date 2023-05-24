@@ -62,44 +62,54 @@ The training file of this project has multiple sections:
 
 **VGG19**
 Structure:
+
 ![vgg](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/61c7cf22-4649-4a4d-a17a-b4b095494587)
 
 
 Figures:
+
 ![Accuracy Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/0463a647-7c3c-4ea2-957c-fcceae557c68)
+
 ![Loss Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/b7577b99-97bb-424a-8125-bcaa7b25bab3)
 
 Confusion Matrix:
+
 ![Confusion Matrix](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/183f270f-4f10-438c-907a-5c43012878f5)
 
 
 
 **Custom Structure**
 Structure:
+
 ![image](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/d7f3a914-26de-4b43-a00d-d2cca6b7578d)
 
 
 Figures:
 ![Accuracy Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/a1ff9fc7-1016-4531-820e-bcbfa8ec40af)
+
 ![Loss Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/1d5df7f4-6934-4e34-8427-89c399859af9)
 
 
 Confusion Matrix:
+
 ![Confusion Matrix](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/b5348691-6997-4b14-9029-7129c91657b3)
 
 
 
 **MobileNet 2**
 Structure:
+
 ![mobile](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/bef10353-3056-49b4-b3b1-87b64e77de7c)
 
 
 Figures:
 ![Accuracy Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/ac8e4d8f-4420-481c-bcf8-6bf1b8595ab6)
+
 ![Loss Graph_small](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/18ad39dc-2823-4e45-961c-e3821319a201)
 
 
 Confusion Matrix:
+
 ![Confusion Matrix](https://github.com/MohamadMulham/Facial-Emotion-Recognition-Project/assets/113246903/d722cb9f-56e1-4a0e-8303-a3b94c9fe94c)
 
 
