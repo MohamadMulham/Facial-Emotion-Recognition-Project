@@ -5,22 +5,6 @@ from matplotlib import pyplot as plt
 from PIL import Image
 
 
-
-def magic(img):
-    name = './model'
-    modelFile = open( name+'.json', 'r')
-    loaded_model_json = modelFile.read()
-    modelFile.close()
-    emotion_model = model_from_json(loaded_model_json)
-    # load weights into new model
-    emotion_model.load_weights(name+".h5")
-    print("Loaded model from disk")
-
-    emotion_prediction = emotion_model.predict(img)
-    maxindex = int(np.argmax(emotion_prediction))
-    cv2.putText(frame, emotion[maxindex], (x+5, y-20), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2, cv2.LINE_AA)
-
-
 img_size= 224
 
 # Start video capture from default camera
