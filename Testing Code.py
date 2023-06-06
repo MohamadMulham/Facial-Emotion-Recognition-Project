@@ -29,7 +29,7 @@ print("Loaded model from disk")
 while True:
     # Find haar cascade to draw bounding box around face
     ret, frame = cap.read()
-    cv2.resize(frame, (1280, 720))
+    #cv2.resize(frame, (1280, 720))
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     if not ret:
         break
