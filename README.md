@@ -1,6 +1,6 @@
 # Facial-Emotion-Recognition-Project
 A project about recognizing an emotion based on observed facial features using the FER 2013 Dataset.
-The emotions detected in this project are: Happiness, Anger, Fear, Sadness, Disgust, and Neurality.
+The emotions detected in this project are: Happiness, Anger, Fear, Sadness, Disgust, and Neutrality.
 
 This project was made using python's library, Tensorflow.
 
